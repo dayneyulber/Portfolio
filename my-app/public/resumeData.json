@@ -3,10 +3,10 @@
     "name":"Dayne Beronque",
     "occupation":"UI Designer / Frontend Developer",
     "city":"Houston",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I love building things! Looking for new opportunities in Web Development",
     "image":"IMG_2251.JPG",
     "bio":"Originally from Houston, Texas, I moved to Austin to pursue an undergraduate degree at the University of Texas. After receiving my Bachelor's degree in Biology, I completed the university's coding bootcamp--this move fueled by my growing passion for the tech industry, as well as my own personal agenda in developing my skills as a frontend web developer.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"I'm always intersted in talking with prospective employers, freelance clients, fellow engineers & anyone else interesting. Let's grab a coffee and chat!",
     "email": "dayneyulber@gmail.com",
     "phone": "(281)-387-8130",
     "address":{
@@ -20,43 +20,28 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/dayne.beronque.58?ref=bookmarks",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/dayneberonque/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/dayneyulber/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/dayneyulber",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm always interested in learning new technologies.",
     "education":[
       {
         "school":"University of Texas at Austin",
@@ -87,15 +72,15 @@
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"JavaScript",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Express",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"React.js",
         "level":"50%"
       },
       {
@@ -107,11 +92,15 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"APIs",
         "level":"50%"
       },
       {
         "name":"MongoDB",
+        "level":"55%"
+      },
+      {
+        "name":"Bootstrap",
         "level":"80%"
       }
     ]
