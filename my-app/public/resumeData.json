@@ -3,20 +3,21 @@
     "name":"Dayne Beronque",
     "occupation":"UI Designer / Frontend Developer",
     "city":"Houston",
-    "description":"I love building things! Looking for new opportunities in Web Development",
+    "description":"I love building things!",
     "image":"IMG_2251.JPG",
     "bio":"Originally from Houston, Texas, I moved to Austin to pursue an undergraduate degree at the University of Texas. After receiving my Bachelor's degree in Biology, I completed the university's coding bootcamp--this move fueled by my growing passion for the tech industry, as well as my own personal agenda in developing my skills as a frontend web developer.",
     "contactmessage":"Let's grab a coffee and chat!",
     "email": "dayneyulber@gmail.com",
     "phone": "(281)-387-8130",
+    "contactdescript": "I'm always interested in talking with prospective employers, freelance clients, fellow engineers, & anyone else interesting. Let's grab a coffee and chat!",
     "address":{
       "street":"12505 Stonebrook Dr.",
       "city":"Pearland",
       "state":"TX",
       "zip": "77584"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "Resume",
+    "resumedownload":"https://docs.google.com/document/d/1_Qn5mHqJIyREyK-nXpr7-vsmncJ66U9O5MJydG7v1U4/edit#",
     "social":[
       {
         "name":"facebook",
@@ -127,9 +128,9 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"My React based portfolio",
+        "image":"Portfolio.png",
+        "url":"https://fierce-peak-86767.herokuapp.com/"
       }
     ]
   },

@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.4.1",
+    "jspdf": "^1.5.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-ga": "^2.7.0",
@@ -30,12 +31,12 @@
       "last 1 safari version"
     ]
   },
-    "buildpacks": [
-      {
-        "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
-      },
-      {
-        "url": "heroku/php"
-      }
-    ]
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ]
 }
